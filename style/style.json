@@ -1,0 +1,279 @@
+{
+  "styleGroups": [
+    {
+      "group": Asian Girls",
+      "styleList": [
+        {
+          "id": 1,
+          "name": Asian Girls1",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": Asian Girls2",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": Asian Girls3",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": Asian Girls4",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": Asian Girls5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": Asian Girls6",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": Asian Girls7",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": Asian Girls8",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": Asian Girls9",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": Asian Girls10",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Asian/Asian Girls10.jpeg"
+        }
+      ]
+    },
+    {
+      "group": "Brazilian",
+      "styleList": [
+        {
+          "id": 1,
+          "name": "Brazilian1",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Brazilian2",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Brazilian3",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Brazilian4",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Brazilian5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Brazilian6",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Brazilian7",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Brazilian8",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "Brazilian9",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Brazilian10",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Brazilian/Brazilian10.jpeg"
+        }
+      ]
+    },
+    {
+      "group": "Indian",
+      "styleList": [
+        {
+          "id": 1,
+          "name": "Indian1",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Indian2",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Indian3",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Indian4",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Indian5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Indian6",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Indian7",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Indian8",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "Indian9",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Indian10",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Indian/Indian10.jpeg"
+        }
+      ]
+    },
+    {
+      "group": "Princess",
+      "styleList": [
+        {
+          "id": 1,
+          "name": "Princess1",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Princess2",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Princess3",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Princess4",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Princess5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Princess6",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Princess7",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Princess8",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "Princess9",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Princess10",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Princess/Princess10.jpeg"
+        }
+      ]
+    },
+    {
+      "group": "Barbie",
+      "styleList": [
+        {
+          "id": 1,
+          "name": "Barbie1",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Barbie2",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Barbie3",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Barbie4",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Barbie5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Barbie6",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Barbie7",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Barbie8",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "Barbie5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Barbie5",
+          "url": "https://raw.githubusercontent.com/epxepx520520/AEX/main/styles/Barbie/Barbie10.jpeg"
+        }
+      ]
+    }
+  ]
+}
